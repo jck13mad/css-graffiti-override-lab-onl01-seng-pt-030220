@@ -12,4 +12,7 @@ div#wall #tag-3.slick.wicked {
   display: none;
 }
 
-#wall div
+#wall div #tag-4 {
+  display: none;
+}
+
